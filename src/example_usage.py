@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Ejemplos de uso del proyecto de Teoría de la Computación
 """
@@ -6,7 +5,6 @@ Ejemplos de uso del proyecto de Teoría de la Computación
 import os
 import sys
 
-# Asegurar que podemos importar desde el directorio actual
 sys.path.append(os.path.dirname(__file__))
 
 from automata_project import *

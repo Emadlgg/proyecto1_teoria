@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Script principal para ejecutar el proyecto de Teoría de la Computación
 """

@@ -2,7 +2,9 @@
 Proyecto Teoría de la Computación 2025
 Implementación de Algoritmos para Construcción de Autómatas Finitos
 
-Autor: [Tu Nombre]
+Osman De Leon
+Ihan Marroquin
+
 Fecha: Agosto 2025
 """
 
