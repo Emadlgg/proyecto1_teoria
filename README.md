@@ -109,6 +109,7 @@ Subconjuntos (AFD)
 ## 🛠️ Tecnologías Utilizadas
 
 - **Python 3.7+**: Lenguaje principal
+- **graphviz**: Visualizaciones gráficas, escencial para el programa
 - **matplotlib + networkx**: Visualizaciones gráficas (opcional)
 - **JSON**: Formato de exportación estándar
 - **Collections**: Estructuras de datos optimizadas
@@ -130,7 +131,7 @@ python run_project.py
 
 ### Instalación manual (alternativa):
 ```bash
-pip install matplotlib networkx  # Opcional para gráficos
+pip install matplotlib networkx graphviz # Opcional para gráficos
 python run_project.py
 ```
 
